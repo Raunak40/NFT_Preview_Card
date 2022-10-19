@@ -1,0 +1,117 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+
+img{
+    max-width: 100%;
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    color: hsl(215, 51%, 70%);
+    margin-top: 4em;
+    font-family: 'Outfit', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+main{
+    width: 340px;
+    background-color: hsl(216, 50%, 16%);
+    margin: 0 auto;
+    padding: 1.3em;
+    border-radius: 1em;
+}
+
+.eth-card{
+    position: relative;
+}
+
+.eth-card img:first-child{
+    border-radius: 1em;
+}
+
+.eth-card img:last-child{
+    display: none;
+}
+
+.eth-card:hover .icon-view{
+    width: 298.4px;
+    height: 298.4px;
+    background-color: hsl(178, 100%, 50%);;
+    border-radius: 1em;
+    opacity: .5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.eth-card:hover img:last-child{
+    display: block;
+    position: absolute;
+    top: 121.2px;
+    left: 127.2px;
+}
+
+.eth-name{
+    color: white;
+}
+
+.eth-name:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+.eth-detail{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.375em;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.eth-quantity{
+    color: hsl(178, 100%, 50%);
+    width: 90px;
+}
+
+.eth-expiry{
+    width: 95px;
+}
+
+hr{
+    color: hsl(215, 32%, 27%);
+    margin: 1em 0;
+}
+
+.eth-owner{
+    display: flex;
+    align-items: center;
+}
+
+.eth-owner p{
+    margin: 0;
+}
+
+.eth-owner__avatar{
+    height: 30px;
+    border: solid white .1em;
+    border-radius: 50%;
+    margin-right: 1em;
+}
+
+.eth-owner__name{
+    display: inline;
+    color: white;
+    margin-left: .3em;
+}
+
+.eth-owner__name:hover{
+    color: hsl(178, 100%, 50%);
+}
