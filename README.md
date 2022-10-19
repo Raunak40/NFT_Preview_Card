@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Raunak40)
+- Solution URL: [Github](https://github.com/Raunak40/NFT_Preview_Card)
 - Live Site URL: [frabjous-narwhal-2c17d9.netlify](https://frabjous-narwhal-2c17d9.netlify.app/)
 
 ## My process
