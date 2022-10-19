@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Raunak40)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [frabjous-narwhal-2c17d9.netlify](https://frabjous-narwhal-2c17d9.netlify.app/)
 
 ## My process
 
@@ -64,7 +64,7 @@ Will try to make the CSS more readable and develepor freindly by reducing the am
 
 ## Author
 
-- Website - [Raunak Raj](https://www.your-site.com)
+- Website - [Raunak Raj](https://frabjous-narwhal-2c17d9.netlify.app/)
 - Frontend Mentor - [@Raunak40](https://www.frontendmentor.io/profile/Raunak40)
 - Github - [@Raunak40](https://github.com/Raunak40)
 
